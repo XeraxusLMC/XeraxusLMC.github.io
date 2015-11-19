@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Larry "Xerxus" Clark is a Multimedia Journalist currently studying at Central Connecticut State University. Larry is a senior student with experience in News, OPinion, and Arts and Entertainment Writing, as well as picture and video shooting.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More here
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lawrence.clark@my.ccsu.edu](mailto:lawrence.clark@my.ccsu.edu)
